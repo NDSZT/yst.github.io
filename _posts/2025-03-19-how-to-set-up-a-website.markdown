@@ -8,4 +8,4 @@ categories: blog
 This is my first Jekyll blog post!
 
 I'm setting up a new Jekyll website using GitHub Pages.
-![My Image](assets/images/myimage.png)
+![My Image](/yst.github.io/assets/images/myimage.png)
