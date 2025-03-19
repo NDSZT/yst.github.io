@@ -5,3 +5,4 @@ date: 2025-03-29
 categories: blog
 ---
 This is week 7, I want to add some contents on this blog, like graph.
+![My Image](assets/images/myimage.png)
