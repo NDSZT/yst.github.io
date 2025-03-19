@@ -22,7 +22,7 @@ title: YST Blog
 email: s242645@dtu.dk
 description: "Welcome to my blog!"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://ndszt.github.io/yst.github.io"
+url: "https://yst.github.io"
 twitter_username: jekyllrb
 github_username:  jekyll
 
