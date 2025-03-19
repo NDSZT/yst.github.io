@@ -18,14 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-<<<<<<< HEAD
-=======
 title: YST Blog
 email: s242645@dtu.dk
 description: >Welcome to my blog!
->>>>>>> 1fd7d1d (Customize Jekyll site)
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://suneman.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ndszt.github.io/yst.github.io/"
 twitter_username: jekyllrb
 github_username:  jekyll
 
