@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Set Up a Website"
-date: 2025-03-10
+date: 2025-03-19
 categories: blog
 ---
 
