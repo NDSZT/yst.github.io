@@ -14,5 +14,5 @@ The following chart is interactive chart of larceny theft by weekday and hour.
 <iframe 
   src="/yst.github.io/HTML/larceny_theft_by_hour.html"
   width="100%" height="500"
-  style="max-width: 640px; margin: 0 auto; display: block; border: none; padding-top: 20px;">
+  style="max-width: 700px; margin: 0 auto; display: block; border: none; padding-top: 20px;">
 </iframe>
