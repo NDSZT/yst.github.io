@@ -21,7 +21,7 @@
 title: Yst's blog
 email: s242645@dtu.dk
 description: >- # this means to ignore newlines until "baseurl:"
-  This is YST's blog for assignment 2.
+  This is YST's blog.
 baseurl: "/yst.github.io" # the subpath of your site, e.g. /blog
 url: "https://ndszt.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: NDSZT
