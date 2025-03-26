@@ -11,4 +11,5 @@ The following interactive map shows larceny theft cases in 2018 in San Francisco
 <iframe src="/yst.github.io/HTML/larceny_map_2018.html" width="100%" height="600"></iframe>
 
 The following chart is interactive chart of larceny theft by weekday and hour.
-<iframe src="/yst.github.io/HTML/larceny_theft_by_hour.html" width="100%" height="600"></iframe>
+<iframe src="/yst.github.io/HTML/larceny_theft_by_hour.html" width="100%" height="500"
+        style="border:none; max-width: 900px; margin: 0 auto; display: block;"></iframe>
