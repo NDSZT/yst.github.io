@@ -12,7 +12,9 @@ This data story is based on the San Francisco Crime Dataset (2003-2025), which i
 
 ![My Image](https://ndszt.github.io/yst.github.io/images/larceny_theft_per_year.png)
 
-**The following interactive map shows larceny theft cases in 2018 in San Francisco.**
+The interactive map below displays the geographic distribution of **larceny theft incidents in San Francisco in 2018**, the peak year for this crime category. Each **orange circle** represents a cluster of theft reports in a specific area. The number inside the circle indicates how many incidents were reported in that region during the year.You can click on a circle to zoom in and see more precise locations where theft occurred, allowing for a more detailed spatial understanding of crime concentration.
+It is easily to see the **highest concentration of larceny thefts (27,834 cases)** is located in the **downtown area**, including Union Square, Financial District, and Market Street (if you click the circle you will see it). In contrast, residential areas such as the Sunset District, which is farther from downtown and have lower foot traffic, experienced significantly fewer theft incidents. This pattern isn’t surprising—-larceny theft tends to happen more in busy commercial areas, tourist hotspots, and places where lots of people are moving around.
+
 <iframe src="/yst.github.io/HTML/larceny_map_2018.html" width="100%" height="500"></iframe>
 
 **The following chart is interactive chart of larceny theft by weekday and hour.**
