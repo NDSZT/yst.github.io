@@ -20,5 +20,4 @@ This data story is based on the San Francisco Crime Dataset (2003-2025), which i
 
 ---
 ### References
-[^1]: SF.gov. *SF responds to coronavirus outbreak with Stay Home order*. Published March 20, 2020.  
-https://sf.gov/news/sf-responds-coronavirus-outbreak-stay-home-order
+[1] [SF.gov. *SF responds to coronavirus outbreak with Stay Home order.*](https://sf.gov/news/sf-responds-coronavirus-outbreak-stay-home-order) Published March 20, 2020.
