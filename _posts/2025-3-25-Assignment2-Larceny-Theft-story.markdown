@@ -20,5 +20,5 @@ This data story is based on the San Francisco Crime Dataset (2003-2025), which i
 
 ---
 ### References
-<span id="ref1">[1]</span> [SF.gov. *SF responds to coronavirus outbreak with Stay Home order.*](https://sf.gov/news/sf-responds-coronavirus-outbreak-stay-home-order) Published March 20, 2020.
+<span id="ref1">[1]</span> [SF.gov. *SF responds to coronavirus outbreak with Stay Home order.*](https://sf.gov/news/sf-responds-coronavirus-outbreak-stay-home-order) Published March 20, 2020.\\
 <span id="ref1">[2]</span> [Office of Governor Gavin Newsom. *Governor Newsom signs landmark legislative package cracking down on retail crime and property theft.*](https://www.gov.ca.gov/2024/08/16/governor-newsom-signs-landmark-legislative-package-cracking-down-on-retail-crime-and-property-theft/) Published August 16, 2024.
