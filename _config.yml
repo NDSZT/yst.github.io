@@ -29,6 +29,7 @@ github_username:  NDSZT
 
 # Build settings
 theme: minima
+rss: false
 plugins:
   - jekyll-feed
 
