@@ -29,9 +29,9 @@ github_username:  NDSZT
 
 # Build settings
 theme: minima
-rss: false
-plugins:
-  - jekyll-feed
+# show_excerpts: true
+# plugins:
+  # - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
